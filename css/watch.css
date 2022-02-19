@@ -1,0 +1,26 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../w1.png);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+}
+.title
+{
+	position: absolute;
+	top: 10%;
+	left: 15%;
+	transform: translate(-50%,-50%);
+}
+.title h1
+{
+	color: #fff;
+	font-size: 40px;
+	padding: 10px 30px;
+	text-decoration: unset;
+}
